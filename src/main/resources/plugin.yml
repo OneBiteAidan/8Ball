@@ -1,0 +1,11 @@
+name: Eightball
+version: '${project.version}'
+main: io.github.onebiteaidan.eightball.Eightball
+api-version: 1.17
+authors:
+  - OnebiteAidan
+description: Tell the outcome of any yes or no problem
+commands:
+  eightball:
+    aliases:
+      - 8ball
